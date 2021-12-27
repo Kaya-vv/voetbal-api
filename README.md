@@ -1,6 +1,7 @@
-# voetbal-api
+# Voetbalnieuws API
 
-Het laatste voetbalnieuws van verschillende websites
+The latest dutch football news sourcing from different sites.
+Made with express.js
 
 # Live Demo
 
